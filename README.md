@@ -13,7 +13,7 @@
 ![Mathematica](https://img.shields.io/badge/-Mathematica-333333?style=flat&logo=wolfram-mathematica&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex&logoColor=white)
 
-## 🤝 Connect with Me
+## 🤝 Connect with me
 
 [![Personal Email](https://img.shields.io/badge/Email-Personal-blue?style=flat&logo=gmail&logoColor=white)](mailto:sofia.cocciaretto@proton.me)
 [![Institutional Email](https://img.shields.io/badge/Email-Institutional-red?style=flat&logo=mail.ru&logoColor=white)](mailto:sofia.cocciaretto@sns.it)
