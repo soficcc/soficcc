@@ -1,6 +1,6 @@
 # Hello, World!
 
-## 👾 About Me
+## 👾 About me
 
 - 📝 Name: Sofia Cocciaretto.
 - 💻 Current position: PhD student in Physics @ SNS, Pisa.
